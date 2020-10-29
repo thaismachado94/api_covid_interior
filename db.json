@@ -35,5 +35,22 @@
       "recuperados":"19,079",
       "mortes":"434"
     }
+  ],
+  "city": [
+    {
+      "Country":"MAIRINQUE",
+      "Slug":"mairinque",
+      "ISO":"SP"
+    },
+    {
+      "Country":"SÃO ROQUE",
+      "Slug":"sao roque",
+      "ISO":"SP"
+    },
+    {
+      "Country":"IBIÚNA",
+      "Slug":"ibiúna",
+      "ISO":"SP"
+    }
   ]
 }
