@@ -31,26 +31,31 @@
       "cidade":"SOROCABA",
       "uf":"SP",
       "ativos":"292",
-      "confirmados":"19,805",
-      "recuperados":"19,079",
+      "confirmados":"19.805",
+      "recuperados":"19.079",
       "mortes":"434"
     }
   ],
-  "city": [
+  "dropCidades": [
     {
-      "Country":"MAIRINQUE",
-      "Slug":"mairinque",
-      "ISO":"SP"
+      "cidade":"MAIRINQUE",
+      "cidade_low":"mairinque",
+      "uf":"SP"
     },
     {
-      "Country":"SÃO ROQUE",
-      "Slug":"sao roque",
-      "ISO":"SP"
+      "cidade":"SÃO ROQUE",
+      "cidade_low":"sao roque",
+      "uf":"SP"
     },
     {
-      "Country":"IBIÚNA",
-      "Slug":"ibiúna",
-      "ISO":"SP"
+      "cidade":"IBIÚNA",
+      "cidade_low":"ibiúna",
+      "uf":"SP"
+    },
+    {
+      "cidade":"SOROCABA",
+      "cidade_low":"sorocaba",
+      "uf":"SP"
     }
   ]
 }
