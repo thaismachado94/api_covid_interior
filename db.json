@@ -57,5 +57,49 @@
       "cidade_low":"sorocaba",
       "uf":"SP"
     }
+  ],
+  "mairinque": [
+    {
+      "id":1,
+      "cidade":"MAIRINQUE",
+      "uf":"SP","ativos":"42",
+      "confirmados":"537",
+      "recuperados":"492",
+      "mortes":"25"
+    }
+  ],
+  "sao-roque": [
+    {
+      "id":2,
+      "cidade":"SÃO ROQUE",
+      "uf":"SP",
+      "ativos":"50",
+      "confirmados":"932",
+      "recuperados":"868",
+      "mortes":"29"
+    }
+  ]
+  ,
+  "ibiuna": [
+    {
+      "id":3,
+      "cidade":"IBIÚNA",
+      "uf":"SP",
+      "ativos":"37",
+      "confirmados":"544",
+      "recuperados":"496",
+      "mortes":"38"
+  }
+  ],
+  "sorocaba": [
+    {
+      "id":4,
+      "cidade":"SOROCABA",
+      "uf":"SP",
+      "ativos":"292",
+      "confirmados":"19.805",
+      "recuperados":"19.079",
+      "mortes":"434"
+    }
   ]
 }
