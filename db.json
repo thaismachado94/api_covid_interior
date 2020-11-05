@@ -78,8 +78,7 @@
       "recuperados":"868",
       "mortes":"29"
     }
-  ]
-  ,
+  ],
   "ibiuna": [
     {
       "id":3,
@@ -89,8 +88,7 @@
       "confirmados":"544",
       "recuperados":"496",
       "mortes":"38"
-  }
-  ],
+  }],
   "sorocaba": [
     {
       "id":4,
